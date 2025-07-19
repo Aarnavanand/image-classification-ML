@@ -38,8 +38,5 @@ To run locally:
 streamlit run app/app.py
 ```
 
-# Demo
-Check out the live [demo](https://huggingface.co/spaces/pytholic/streamlit-image-classification-demo).
-
 <br></br>
 <img src="resources/demo.png">
